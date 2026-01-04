@@ -1,5 +1,6 @@
 ## HRMS Dashboard ##
 
+# KEY FEATURES #
 - **Skill-based employee shortlisting:** HR can select required skill(s) and skill level, and the table instantly filters to matching employees.
 - **Multi-skill + level filtering:** Supports narrowing down candidates by multiple skill categories and proficiency levels for better project-fit.
 - **Fast allocation view:** Side-by-side employee vs skill columns makes it easy to compare candidates and pick the right person quickly.
