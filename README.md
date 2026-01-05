@@ -14,3 +14,5 @@
 
 ![HRMS Overview](HRMS_.png)
 ![Revit Overview](Revit_.png)
+
+![Dashboard Demo](demo.gif)
